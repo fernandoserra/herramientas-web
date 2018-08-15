@@ -1,0 +1,26 @@
+{
+    "herramientas":[
+        {
+            "nombre":"Diagramas",
+            "lista":{
+                "gliffy":{
+                    "url":"https://www.gliffy.com/",
+                    "descripcion":"Gliffy online tools power visual communication and collaboration."
+                },
+                "reiniciar":{
+                    "url":"https://www.vertabelo.com/",
+                    "descripcion":"DESIGN YOUR DATABASE ONLINE"
+                },
+                "draw":{
+                    "url":"https://www.draw.io/",
+                    "descripcion":"Draw"
+                },
+                "cacoo":{
+                    "url":"https://cacoo.com/es/",
+                    "descripcion":"Diagramas basados en la nube, de la manera fácil. Creador de diagramas para empresas, equipos y para usted"
+                }
+                
+            }
+        }
+    ]
+}
